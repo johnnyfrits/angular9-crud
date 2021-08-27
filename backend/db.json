@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BC Preta",
+      "price": "5.99"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Teclado Gamer",
+      "price": "399.98",
+      "id": 5
+    },
+    {
+      "name": "Mouse Gamer",
+      "price": "120",
+      "id": 6
+    },
+    {
+      "name": "Impressora",
+      "price": "350",
+      "id": 7
+    }
+  ]
+}
